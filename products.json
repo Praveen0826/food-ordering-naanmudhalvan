@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Fried Rice",
+        "price": 180,
+        "description": "Fried rice is a dish of cooked rice that is stir-fried with other ingredients in a wok or frying pan",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/product/fried.jpg"
+            },
+            {
+                "image": "/images/product/rice.jpeg"
+            }
+        ],
+        "category": "Main course",
+        "seller": "yaa mohideen",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Healty Food Bowl",
+        "price": 150.32,
+        "description": "A meal in a bowl that contains a variety of nutrient-dense ingredients",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/healthyfoodbowl.jfif"
+            }
+        ],
+        "category": "Main course",
+        "seller": "Adyar Anandha Bhavan",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Pizza",
+        "price": 440.57,
+        "description": "Pizza is a baked Italian dish of flattened bread dough topped with tomato sauce, cheese, and other ingredients",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pizza.jfif"
+            }
+        ],
+        "category": "Snacks",
+        "seller": "Dominos",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Burger",
+        "price": 250.45,
+        "description": "A burger, or hamburger, is a sandwich made of a cooked meat patty between two halves of a bun",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/burger.jfif"
+          }
+        ],
+        "category": "Fast Food",
+        "seller": "Burger King",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "chocolate ice Cream",
+        "price": 710.32,
+        "description": "Ice cream is a frozen dessert made from milk or cream, sugar or sweetener, flavoring, and sometimes eggs",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/icecream.jpg"
+          }
+        ],
+        "category": "Dessert",
+        "seller": "Haagen-Dazs",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Black Forest",
+        "price": 85.46,
+        "description": " Black Forest gateau consists of several layers of chocolate sponge cake sandwiched with whipped cream and cherries.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/cakes.jpg"
+            }
+        ],
+        "category": "Dessert",
+        "seller": "McRennett Cakes",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Raman noodles bowl",
+        "price": 410.12,
+        "description": "Ramen is a Japanese noodle soup.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/noodles.jpg"
+            }
+        ],
+        "category": "chinese",
+        "seller": "Tamen-The Local Raman ",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
